@@ -17,10 +17,14 @@ Este es un proyecto desarrollado con [Angular](https://angular.io/), creado para
    ```bash
    git clone https://github.com/gabribn99/CountryApp.git
    cd CountryApp
+
+2. Instala las dependencias:
+   ```bash
+   npm install
    
-2. Inicia el servicio:
+4. Inicia el servicio:
 
    ```bash
    ng serve -o
 
-3. Accede a la aplicación escribiendo en el navegador `https://localhost:4200`
+5. Accede a la aplicación escribiendo en el navegador `https://localhost:4200`
